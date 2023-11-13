@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NettyverseApplication {
+public class NettyVerseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NettyverseApplication.class, args);
+		SpringApplication.run(NettyVerseApplication.class, args);
 	}
 
 }
